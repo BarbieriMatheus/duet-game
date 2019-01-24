@@ -26,19 +26,21 @@ A duplicata foi desenvolvida em 28 horas para usuários de desktop utilizando o 
  (Minimum Viable Product), pois decidi implementar o mínimo necessário para aplicação ser jogada e depois adicionar outros
  recursos.
  
- ## Modo de jogar
- O grande desafio do jogo é desviar os receptáculos azul e vermelho dos obstáculos.
+## Modo de jogar
+Clique para jogar a [duplicata](https://ibarbierimatheus.github.io/duet-game/) do jogo Duet.
+
+O grande desafio do jogo é desviar os receptáculos azul e vermelho dos obstáculos.
  
- - Para startar o jogo é necessário pressionar a _tecla_ de '_espaço_'.
- - Utilize as _setas_ que apontam para '_esquerda_' e '_direita_', assim desviando dos obstáculos.
- - Após um 'game over' é possível pressionar a _tecla_ 'r' para abrir a pontuação de partidas anteriores, sendo
- armazenado somente dez recordes ou pressionar a _tecla_ '_espaço_' para jogar novamente.
+- Para startar o jogo é necessário pressionar a _tecla_ de '_espaço_'.
+- Utilize as _setas_ que apontam para '_esquerda_' e '_direita_', assim desviando dos obstáculos.
+- Após um 'game over' é possível pressionar a _tecla_ 'r' para abrir a pontuação de partidas anteriores, sendo
+armazenado somente dez recordes ou pressionar a _tecla_ '_espaço_' para jogar novamente.
  
- ## Considerações
- A recriação do jogo Duet em JavaScript foi realizada para aprendizagem educacional e sem fins lucrativos. Tendo todos os 
- créditos do jogo direcionado aos criadores originais.
- 
- ## Dowload Duet Original
- Disponível para:
- - [Android](https://play.google.com/store/apps/details?id=com.kumobius.android.duet) na PlayStore
- - [iOS](https://itunes.apple.com/us/app/duet/id634235735) na AppleStore
+## Considerações
+A recriação do jogo Duet em JavaScript foi realizada para aprendizagem educacional e sem fins lucrativos. Tendo todos os 
+créditos do jogo direcionado aos criadores originais.
+
+## Dowload Duet Original
+Disponível para:
+- [Android](https://play.google.com/store/apps/details?id=com.kumobius.android.duet) na PlayStore
+- [iOS](https://itunes.apple.com/us/app/duet/id634235735) na AppleStore
