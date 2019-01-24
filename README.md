@@ -4,7 +4,7 @@ os obstáculos no caminho. Sempre lembrando que você precisa manter ambos os ob
 pois um depende do outro.
 
 ## Inspiração
-Duet é um jogo criado pela empresa autraliana Kumobius, composta pelos irmãos Tom e James Greenaway e com Ivan Neeson. Com
+Duet é um jogo criado pela empresa autraliana [Kumobius](https://www.duetgame.com/), composta pelos irmãos Tom e James Greenaway e com Ivan Neeson. Com
 a sua trilha sonora criada por Tim Shiel. Recendo diversas premiações como melhor jogo do ano, melhor trilha sonora, desgin, 
 entre outros prêmios.
 
