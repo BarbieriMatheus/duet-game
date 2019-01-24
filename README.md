@@ -44,3 +44,6 @@ créditos do jogo direcionado aos criadores originais.
 Disponível para:
 - [Android](https://play.google.com/store/apps/details?id=com.kumobius.android.duet) na PlayStore
 - [iOS](https://itunes.apple.com/us/app/duet/id634235735) na AppleStore
+
+
+[_resumo_](https://slides.com/matheusbarbieri/deck/live)
