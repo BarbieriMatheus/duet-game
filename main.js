@@ -171,8 +171,13 @@ function animateInitial() {
 
   rotationCircle('right');
   canvas.ctx.clearRect(0, 0, 280, 450);
-  text("duet", "50px", "white", 70, 190);
-  text("press the spacebar", "14px", "white", 50, 220);
+  text("duet", "50px", "white", 70, 140);
+  text("press the spacebar", "14px", "white", 50, 170);
+  text("to start", "10px", "white", 105, 190);
+
+  text("use the left and right", "12px", "white", 50, 220);
+  text("arrows to play", "12px", "white", 90, 240);
+
 
   canvas.ctx.fillStyle = 'blue';
   canvas.circle[0].drawCircle();
