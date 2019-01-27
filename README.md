@@ -27,7 +27,7 @@ A duplicata foi desenvolvida em 28 horas para usuários de desktop utilizando o 
  recursos.
  
 ## Modo de jogar
-Clique para jogar a [duplicata](https://ibarbierimatheus.github.io/duet-game/) do jogo Duet.
+Clique para jogar a [duplicata](https://barbierimatheus.github.io/duet-game/) do jogo Duet.
 
 O grande desafio do jogo é desviar os receptáculos azul e vermelho dos obstáculos.
  
